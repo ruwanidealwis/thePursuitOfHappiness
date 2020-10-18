@@ -6,4 +6,4 @@
    
 ## Usage
 
-Read the report: 
+Read the report: [here](/worldHappiness.ipynb)
